@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<view class="container">
+  <label>1. (女)也许冬天的冰雪会覆满我的心，也许我走不出痛苦的心境。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='1'>播放</button></view></view>
+  <label>2. (女)于是我会放一把火，烧尽冰雪，烧出另一个春天。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='2'>播放</button></view></view>
+  <label>3. (女)万里悲秋常作客，百年多病独登台。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='3'>播放</button></view></view>
+  <label>4. (女)世界上最遥远的距离，不是生与死，而是我就站在你面前，你却不知道我爱你。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='4'>播放</button></view></view>
+  <label>5. (女)远看山有色，近听水无声。春去花还在，人来鸟不惊。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='5'>播放</button></view></view>
+  <label>6. (男)也许冬天的冰雪会覆满我的心，也许我走不出痛苦的心境。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='6'>播放</button></view></view>
+  <label>7. (男)于是我会放一把火，烧尽冰雪，烧出另一个春天。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='7'>播放</button></view></view>
+  <label>8. (男)万里悲秋常作客，百年多病独登台。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='8'>播放</button></view></view>
+  <label>9. (男)世界上最遥远的距离，不是生与死，而是我就站在你面前，你却不知道我爱你。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='9'>播放</button></view></view>
+  <label>10. (男)远看山有色，近听水无声。春去花还在，人来鸟不惊。</label>
+  <view class="long_button"><view><button bindtap='getPoetry' data-index='10'>播放</button></view></view>
+</view>

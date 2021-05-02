@@ -1,0 +1,15 @@
+<!--tts.wxml-->
+<view class="container">
+  <button bindtap='start'>开始录音</button> 
+  <button bindtap='stop'>停止录音并上传</button> 
+  <textarea class="tts_input" 
+    placeholder="输入将要合成语音的文本"
+    bindinput="listenerInput">
+  </textarea>
+  <button bindtap='sendText'>上传文字并合成</button> 
+  <button bindtap='playWav'>播放合成音</button> 
+  <button bindtap='playToneMp3'>播放录音tone.mp3</button>  
+  <button bindtap='playToneWav'>播放录音tone.wav</button>   
+  <button bindtap='gen'>合成声音</button>
+  <button bindtap='post_test'>发送最简单的post</button>
+</view>

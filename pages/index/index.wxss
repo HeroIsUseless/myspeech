@@ -1,0 +1,7 @@
+/**index.wxss**/
+.label{
+  width: 100%;
+}
+.long_button{
+  width: 100%;
+}

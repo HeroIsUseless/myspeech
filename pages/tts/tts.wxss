@@ -1,0 +1,4 @@
+.tts_input {
+  border: 1px solid lightgrey;
+  padding: 10rpx;
+}
